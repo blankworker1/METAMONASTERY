@@ -109,7 +109,7 @@ One principle governs the library: no seed should reference a price event, a mar
 
 The project is in active development. The current phase involves:
 
-- Manual transmission generation and validation via a Base44 webapp
+- Manual transmission generation and validation via a Base44 webapp (link below)
 - System prompt refinement through iterative testing
 - Seed library curation and expansion
 - Voice selection and TTS calibration in ElevenLabs
