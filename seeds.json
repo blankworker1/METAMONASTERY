@@ -1,0 +1,366 @@
+[
+  {
+    "id": "001",
+    "category": "historical_moment",
+    "seed": "August 15, 1971. Nixon appears on television and tells the world that the dollar will no longer be convertible to gold. He calls it a temporary measure. It has now been over fifty years.",
+    "themes": ["monetary history", "trust", "sovereignty", "fiat"],
+    "used": false,
+    "last_used": null,
+    "notes": "Strong opening seed. The word 'temporary' is the entry point."
+  },
+  {
+    "id": "002",
+    "category": "historical_moment",
+    "seed": "Venice, 1157. The Republic issues the first known government bond to finance a war with Byzantium. Citizens are compelled to lend to the state at fixed interest. The instrument is called a prestito — a forced loan.",
+    "themes": ["monetary history", "debt", "sovereignty", "origins"],
+    "used": false,
+    "last_used": null,
+    "notes": "Opens the question of what it means to lend to power."
+  },
+  {
+    "id": "003",
+    "category": "historical_moment",
+    "seed": "Germany, 1923. At the peak of hyperinflation, prices double every three days. Workers are paid twice daily and sprint to spend wages before they lose value. A wheelbarrow of marks buys a loaf of bread. The middle class is wiped out not by poverty but by savings becoming worthless.",
+    "themes": ["hyperinflation", "savings", "monetary history", "time preference"],
+    "used": false,
+    "last_used": null,
+    "notes": "The wheelbarrow image is well known. Focus on the middle class angle — less discussed."
+  },
+  {
+    "id": "004",
+    "category": "historical_moment",
+    "seed": "Cyprus, March 2013. The government announces a bail-in. Depositors wake to find their bank accounts frozen. Those with over 100,000 euros lose a portion of their savings to recapitalize the banks. It is legal. It is unprecedented in the modern EU. It happens over a weekend.",
+    "themes": ["trust", "custody", "sovereignty", "bail-in"],
+    "used": false,
+    "last_used": null,
+    "notes": "The weekend detail matters — no warning, no agency. Strong seed for the self-custody theme."
+  },
+  {
+    "id": "005",
+    "category": "historical_moment",
+    "seed": "England, 1694. The Bank of England is founded not to serve citizens but to lend money to a government at war with France. The bank creates money from nothing, lends it to the Crown, and earns interest. It is the template for every central bank that follows.",
+    "themes": ["central banking", "origins", "monetary history", "incentives"],
+    "used": false,
+    "last_used": null,
+    "notes": "The origin story of central banking. Most people have no idea."
+  },
+  {
+    "id": "006",
+    "category": "historical_moment",
+    "seed": "France, 1720. John Law convinces the French Crown to replace gold with paper money backed by the promise of vast wealth from Louisiana territory. For a brief moment it works. Then it doesn't. The Mississippi Bubble collapses. Paper money is banned in France for nearly a century.",
+    "themes": ["monetary history", "trust", "paper money", "collapse"],
+    "used": false,
+    "last_used": null,
+    "notes": "First great paper money experiment. The Louisiana promise is the key detail."
+  },
+  {
+    "id": "007",
+    "category": "historical_moment",
+    "seed": "January 3, 2009. The first Bitcoin block is mined. Embedded in its code is a headline from that morning's Times of London: 'Chancellor on brink of second bailout for banks.' Satoshi leaves no other explanation. The juxtaposition is the statement.",
+    "themes": ["bitcoin", "genesis", "trust", "monetary history"],
+    "used": false,
+    "last_used": null,
+    "notes": "The genesis block seed. Let the embedded headline do the work."
+  },
+  {
+    "id": "008",
+    "category": "historical_moment",
+    "seed": "May 22, 2010. A programmer in Florida pays 10,000 bitcoin for two pizzas. At the time it feels like a bargain. It is the first real-world commercial transaction using Bitcoin. The pizzas cost approximately 41 dollars. The programmer has no regrets — he helped prove the network worked.",
+    "themes": ["bitcoin", "value", "origins", "history"],
+    "used": false,
+    "last_used": null,
+    "notes": "Resist the price angle. Focus on proof of concept — the network worked."
+  },
+  {
+    "id": "009",
+    "category": "historical_moment",
+    "seed": "Bretton Woods, July 1944. Representatives of 44 nations gather in New Hampshire to design the post-war monetary order. The dollar becomes the world's reserve currency, pegged to gold. Every other currency pegs to the dollar. One nation's monetary policy becomes everyone's problem.",
+    "themes": ["monetary history", "sovereignty", "dollar", "reserve currency"],
+    "used": false,
+    "last_used": null,
+    "notes": "Sets up the 1971 seed beautifully if used before it. Can stand alone."
+  },
+  {
+    "id": "010",
+    "category": "historical_moment",
+    "seed": "Argentina, 2001. The government freezes bank accounts in a measure called the corralito. Citizens cannot access their own savings. Middle-class families who saved in dollars find their accounts converted to pesos at unfavorable rates by government decree. It is called a rescue.",
+    "themes": ["trust", "custody", "sovereignty", "monetary history"],
+    "used": false,
+    "last_used": null,
+    "notes": "The word 'rescue' is the entry point. Who is being rescued."
+  },
+  {
+    "id": "011",
+    "category": "behavioral_observation",
+    "seed": "Most people find it easier to spend money they borrowed than money they earned. The psychological distance between a credit card swipe and actual cost is not an accident of design. It is the design.",
+    "themes": ["behavior", "debt", "incentives", "psychology"],
+    "used": false,
+    "last_used": null,
+    "notes": "Universal and relatable. Good for opening with a feeling rather than a fact."
+  },
+  {
+    "id": "012",
+    "category": "behavioral_observation",
+    "seed": "Consider what happens to a person's relationship with the future when their savings lose value slowly every year. Not dramatically — just quietly, persistently. Does that person plan further ahead or closer in? Does patience become rational or irrational?",
+    "themes": ["time preference", "savings", "behavior", "incentives"],
+    "used": false,
+    "last_used": null,
+    "notes": "The time preference question without naming it. Let the listener arrive at the concept."
+  },
+  {
+    "id": "013",
+    "category": "behavioral_observation",
+    "seed": "We trust institutions we have never examined because the people around us trust them. This is not stupidity. It is efficiency. Verifying everything from first principles is exhausting. The question is what happens when that efficiency is exploited.",
+    "themes": ["trust", "behavior", "institutions", "verification"],
+    "used": false,
+    "last_used": null,
+    "notes": "Sets up the verification theme with empathy rather than judgment."
+  },
+  {
+    "id": "014",
+    "category": "behavioral_observation",
+    "seed": "There is a difference between feeling wealthy and being solvent. Modern economies have become very good at producing the feeling. The feeling moves consumption forward. The solvency question gets deferred.",
+    "themes": ["behavior", "debt", "consumption", "incentives"],
+    "used": false,
+    "last_used": null,
+    "notes": "Short and sharp. The word 'deferred' carries the transmission."
+  },
+  {
+    "id": "015",
+    "category": "behavioral_observation",
+    "seed": "When a government inflates its currency to pay its debts, no single person receives a bill. The cost is distributed invisibly across everyone who holds that currency. This is why it is politically preferable to taxation. It is a tax with no return address.",
+    "themes": ["inflation", "behavior", "incentives", "monetary policy"],
+    "used": false,
+    "last_used": null,
+    "notes": "The 'no return address' phrase is the anchor."
+  },
+  {
+    "id": "016",
+    "category": "behavioral_observation",
+    "seed": "Most people who distrust banks still use them because the alternative requires more effort than the distrust warrants. Convenience is a more powerful force than ideology. Any system that wants to change behavior has to reckon with that honestly.",
+    "themes": ["behavior", "trust", "adoption", "friction"],
+    "used": false,
+    "last_used": null,
+    "notes": "Non-judgmental. Acknowledges the real friction of alternatives."
+  },
+  {
+    "id": "017",
+    "category": "behavioral_observation",
+    "seed": "Humans discount the future. A reward today feels larger than the same reward tomorrow, and much larger than the same reward in ten years. This is not a moral failing. It is biology. The question is whether the systems we build amplify that tendency or temper it.",
+    "themes": ["time preference", "behavior", "incentives", "human nature"],
+    "used": false,
+    "last_used": null,
+    "notes": "Opens the time preference discussion through biology rather than economics."
+  },
+  {
+    "id": "018",
+    "category": "structural_contrast",
+    "seed": "A currency whose supply can be expanded by committee decision versus a currency whose supply is fixed by code and cannot be altered by any individual, institution, or government. Both exist today. They represent fundamentally different answers to the question of who controls the unit of account.",
+    "themes": ["monetary policy", "bitcoin", "sovereignty", "supply"],
+    "used": false,
+    "last_used": null,
+    "notes": "The cleanest structural contrast in the library. No judgment, just architecture."
+  },
+  {
+    "id": "019",
+    "category": "structural_contrast",
+    "seed": "Trusting a third party to hold your wealth versus holding it yourself. Both require something. The first requires trust in an institution, its solvency, its honesty, and the legal system that governs it. The second requires personal competence, security, and the willingness to accept that there is no one to call if you fail.",
+    "themes": ["custody", "trust", "responsibility", "self-sovereignty"],
+    "used": false,
+    "last_used": null,
+    "notes": "Neither option is free. That's the point."
+  },
+  {
+    "id": "020",
+    "category": "structural_contrast",
+    "seed": "Rules that bend during emergencies versus rules that do not. Both have advocates. The first argues that rigidity causes unnecessary suffering when flexibility could prevent it. The second argues that rules which bend under pressure are not rules — they are suggestions, and those who know they will bend will plan accordingly.",
+    "themes": ["rules", "institutions", "bitcoin", "monetary policy"],
+    "used": false,
+    "last_used": null,
+    "notes": "This is the core philosophical tension. Present it without resolution."
+  },
+  {
+    "id": "021",
+    "category": "structural_contrast",
+    "seed": "Money that requires permission to move versus money that does not. To send a wire transfer, you need a bank, an account, identity verification, and the approval of the institution. To send Bitcoin, you need an internet connection and a private key. The difference is not technical. It is philosophical.",
+    "themes": ["permissionless", "bitcoin", "sovereignty", "censorship resistance"],
+    "used": false,
+    "last_used": null,
+    "notes": "End on 'philosophical' — resist explaining further."
+  },
+  {
+    "id": "022",
+    "category": "structural_contrast",
+    "seed": "Saving in an asset whose supply expands versus saving in an asset whose supply cannot. If you save in the first, your share of the total shrinks over time without any action on your part. If you save in the second, your share remains fixed. This is not a political statement. It is arithmetic.",
+    "themes": ["savings", "inflation", "scarcity", "bitcoin"],
+    "used": false,
+    "last_used": null,
+    "notes": "The arithmetic framing removes the ideology. Let it be a math problem."
+  },
+  {
+    "id": "023",
+    "category": "primary_source_fragment",
+    "seed": "Keynes wrote: 'In the long run we are all dead.' It is one of the most quoted and least understood lines in economics. He was not being nihilistic. He was arguing against waiting for markets to self-correct while people suffered in the present. Whether he was right is still debated. What is rarely debated is what his framework licensed.",
+    "themes": ["Keynes", "monetary theory", "short-termism", "economics"],
+    "used": false,
+    "last_used": null,
+    "notes": "The last sentence is the entry point. What did the framework license."
+  },
+  {
+    "id": "024",
+    "category": "primary_source_fragment",
+    "seed": "The Bitcoin whitepaper opens: 'A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution.' Nine pages. No name attached. Published October 31, 2008. Six weeks after Lehman Brothers collapsed.",
+    "themes": ["bitcoin", "origins", "trust", "monetary history"],
+    "used": false,
+    "last_used": null,
+    "notes": "The Lehman timing is rarely noted. Let it sit without explanation."
+  },
+  {
+    "id": "025",
+    "category": "primary_source_fragment",
+    "seed": "Hayek argued that the price system is a mechanism for transmitting information that no central authority could ever fully possess. When you set the price of money artificially, you corrupt that signal. Decisions downstream are made on false information. The error compounds invisibly until it cannot.",
+    "themes": ["Hayek", "Austrian economics", "price signals", "central banking"],
+    "used": false,
+    "last_used": null,
+    "notes": "Summarizes the Austrian critique without caricature."
+  },
+  {
+    "id": "026",
+    "category": "primary_source_fragment",
+    "seed": "Adam Smith's invisible hand appears only once in The Wealth of Nations, almost in passing. What Smith actually spent most of the book on was the conditions under which markets fail, concentrate power, and harm the public. That part is less frequently quoted.",
+    "themes": ["Adam Smith", "economics", "markets", "history of ideas"],
+    "used": false,
+    "last_used": null,
+    "notes": "Corrects a common misreading without lecturing. Opens curiosity."
+  },
+  {
+    "id": "027",
+    "category": "primary_source_fragment",
+    "seed": "The Federal Reserve's own educational materials explain that when banks make loans, they create new deposits — and therefore new money — in the process. This is not a conspiracy theory. It is the Federal Reserve's description of how the system works, available on their website.",
+    "themes": ["central banking", "money creation", "trust", "verification"],
+    "used": false,
+    "last_used": null,
+    "notes": "Primary source verification as the practical action. Invite them to look it up."
+  },
+  {
+    "id": "028",
+    "category": "primary_source_fragment",
+    "seed": "Satoshi Nakamoto's final known public message was posted in December 2010. It was about a technical detail. Then silence. No explanation. No exit interview. No legacy statement. The work was complete or it wasn't. Either way, the architect left the building and the building kept standing.",
+    "themes": ["bitcoin", "origins", "decentralization", "trust"],
+    "used": false,
+    "last_used": null,
+    "notes": "The disappearance is the philosophical statement. Don't over-explain it."
+  },
+  {
+    "id": "029",
+    "category": "contemplative_provocation",
+    "seed": "When did you last verify something you currently take on faith? Not doubt it — verify it. Trace it back to its source. Read the primary document. Run the numbers yourself. Most of what we believe about how money works we have never verified. We received it. There is a difference.",
+    "themes": ["verification", "trust", "epistemology", "personal practice"],
+    "used": false,
+    "last_used": null,
+    "notes": "The distinction between receiving a belief and verifying it is the whole transmission."
+  },
+  {
+    "id": "030",
+    "category": "contemplative_provocation",
+    "seed": "If you could not store value reliably — if everything you saved slowly lost its purchasing power — how would it change the way you think about the future? Would you plan further ahead or closer in? Would patience feel like wisdom or waste?",
+    "themes": ["time preference", "savings", "incentives", "contemplation"],
+    "used": false,
+    "last_used": null,
+    "notes": "Ask it and stop. Don't answer it."
+  },
+  {
+    "id": "031",
+    "category": "contemplative_provocation",
+    "seed": "What does it mean to own something in a digital world? You own the file but someone else controls the platform. You own the account but someone else controls access. You own the asset but someone else holds the key. Ownership has always required a theory of enforcement. That theory is changing.",
+    "themes": ["ownership", "digital", "custody", "sovereignty"],
+    "used": false,
+    "last_used": null,
+    "notes": "Opens the custody question through ownership philosophy rather than Bitcoin directly."
+  },
+  {
+    "id": "032",
+    "category": "contemplative_provocation",
+    "seed": "Is patience a virtue or a privilege? In a system where waiting costs you — where your savings shrink and your debts compound — patience is not wisdom. It is a luxury available to those whose assets appreciate faster than their purchasing power erodes. For everyone else, spending now is rational.",
+    "themes": ["time preference", "incentives", "behavior", "contemplation"],
+    "used": false,
+    "last_used": null,
+    "notes": "Challenges the moral framing of patience. Structural, not personal."
+  },
+  {
+    "id": "033",
+    "category": "contemplative_provocation",
+    "seed": "What is the difference between money and value? They are not the same thing, though we treat them as if they are. Value is what something is worth to someone. Money is the medium we use to represent and transfer that worth. The medium shapes what we consider valuable. It always has.",
+    "themes": ["value", "money", "philosophy", "economics"],
+    "used": false,
+    "last_used": null,
+    "notes": "Philosophical entry point. Let the distinction breathe."
+  },
+  {
+    "id": "034",
+    "category": "bitcoin_technical_moment",
+    "seed": "Every four years, approximately, the reward for mining a new Bitcoin block is cut in half. This is called the halving. It is written into the code and cannot be changed by any person or institution. The next block will be worth half what the last one was. This has happened several times. It will continue until the last bitcoin is mined, projected sometime around the year 2140.",
+    "themes": ["bitcoin", "supply", "halving", "time preference"],
+    "used": false,
+    "last_used": null,
+    "notes": "Explain the mechanism without the price speculation that usually accompanies it."
+  },
+  {
+    "id": "035",
+    "category": "bitcoin_technical_moment",
+    "seed": "Anyone can run a Bitcoin node. It requires a consumer laptop, a copy of the software, and time to download the full transaction history — every transaction, back to January 2009. When you run a node, you verify everything yourself. You trust no one's copy of the ledger but your own.",
+    "themes": ["bitcoin", "verification", "decentralization", "personal practice"],
+    "used": false,
+    "last_used": null,
+    "notes": "The practical invitation. Running a node is the verification act made concrete."
+  },
+  {
+    "id": "036",
+    "category": "bitcoin_technical_moment",
+    "seed": "The block size wars of 2015 to 2017 were a dispute about how to scale Bitcoin. On one side: make the blocks bigger, process more transactions, grow faster. On the other: keep the blocks small, keep the network decentralized, let second layers handle scale. The small block side won. The argument was about more than bytes. It was about who gets to decide.",
+    "themes": ["bitcoin", "governance", "decentralization", "history"],
+    "used": false,
+    "last_used": null,
+    "notes": "The governance question is the real seed here. Who decides, and how."
+  },
+  {
+    "id": "037",
+    "category": "bitcoin_technical_moment",
+    "seed": "If you lose your Bitcoin private key, there is no recovery process. No customer service. No password reset. No institution to appeal to. The coins exist on the ledger, permanently, belonging to no one. This is not a bug that will be fixed. It is a feature of a system that requires no trusted third party. The responsibility is total and it is yours.",
+    "themes": ["bitcoin", "custody", "responsibility", "self-sovereignty"],
+    "used": false,
+    "last_used": null,
+    "notes": "The weight of self-custody made real. Not frightening — honest."
+  },
+  {
+    "id": "038",
+    "category": "bitcoin_technical_moment",
+    "seed": "Bitcoin has never been successfully hacked at the protocol level. Individual exchanges, wallets, and users have been compromised — that is a different thing. The base layer, the consensus rules enforced by thousands of independent nodes, has held since January 2009. Whether that will always be true, no one can say. So far it has been.",
+    "themes": ["bitcoin", "security", "verification", "history"],
+    "used": false,
+    "last_used": null,
+    "notes": "State it factually. Resist the urge to make it a triumph. It is an observation."
+  },
+  {
+    "id": "039",
+    "category": "historical_moment",
+    "seed": "The United States went off the gold standard domestically in 1933, when Franklin Roosevelt signed Executive Order 6102, making it illegal for Americans to own gold. Citizens were required to surrender their gold to the Federal Reserve at a fixed price. Shortly after, the official price of gold was raised. The difference went to the government.",
+    "themes": ["monetary history", "gold", "sovereignty", "confiscation"],
+    "used": false,
+    "last_used": null,
+    "notes": "The sequence of events — surrender, then revaluation — is the seed."
+  },
+  {
+    "id": "040",
+    "category": "behavioral_observation",
+    "seed": "People who have lived through hyperinflation behave differently with money for the rest of their lives. They buy hard assets. They distrust banks. They keep cash in multiple places. They do not need to be convinced that money can fail. They have seen it. Their behavior is not paranoia. It is experience.",
+    "themes": ["behavior", "hyperinflation", "trust", "experience"],
+    "used": false,
+    "last_used": null,
+    "notes": "Leads with empathy. Experiential knowledge versus theoretical knowledge."
+  }
+]
+
+
+
+
