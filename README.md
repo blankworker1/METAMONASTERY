@@ -6,7 +6,9 @@ AI Audio Transmission Generator
 
 [Ideation](https://claude.ai/chat/a697f3c0-5264-4533-b4f7-b1319b83a9c7)
 
-[Transmission Generator webapp](https://app.base44.com/apps/6999d11251013d580030d84a/editor/preview)
+[Transmission Generator webapp](https://app.base44.com/apps/6999d11251013d580030d84a/editor/preview) 
+
+update prompt with last set of changes recommended by Claude
 
 [Text to Speech](https://www.minimax.io/audio/text-to-speech)
 
